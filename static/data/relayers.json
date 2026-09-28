@@ -20,7 +20,7 @@
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "Solana", "trust": "TRUSTED", "name": "Zeus", "gmp": "YES",  "bridge": "", "url": "" },
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "-", "trust": "TRUSTMINIMIZED", "name": "Cosmos IBC", "gmp": "YES",  "bridge": "", "url": "https://tutorials.cosmos.network/academy/2-cosmos-concepts/13-relayer-intro.html" },
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "-", "trust": "TRUSTMINIMIZED", "name": "DeBridge DMP", "gmp": "YES",  "bridge": "", "url": "https://debridge.com/" },
-	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "-", "trust": "TRUSTMINIMIZED", "name": "Hyperlane Relayer", "gmp": "YES",  "bridge": "", "url": "https://docs.hyperlane.xyz/docs/protocol/agents/relayer" },
+	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "-", "trust": "TRUSTMINIMIZED", "name": "Hyperlane Relayer", "gmp": "YES",  "bridge": "", "url": "https://docs.hyperlane.xyz/docs/protocol/agents/relayer", "code": "hyperlane/ERC7786Adapter_Hyperlane_v3.sol" },
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "Ethereum", "trust": "TRUSTMINIMIZED", "name": "Hop Protocol", "gmp": "YES",  "bridge": "", "url": "https://docs.hop.exchange/" },
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "Cosmos", "trust": "TRUSTMINIMIZED", "name": "ZetaChain Relayer", "gmp": "YES",  "bridge": "", "url": "https://www.zetachain.com/blog/zetachain-vs-layerzero-a-developers-guide-to-building-cross-chain-apps" },
 	{ "id": "ARM", "type": "relayer", "paradigm": "GMP", "builtOn": "Hyperbridge", "trust": "TRUSTLESS", "name": "HyperBridge XCMP", "gmp": "",  "bridge": "", "url": "https://hyperbridge.network/permissionless-relayers" },
