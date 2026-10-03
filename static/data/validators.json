@@ -1,0 +1,18 @@
+[
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Agoric Validators", "url": "https://agoric.com/validators/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Axelar Validators", "url": "https://axelarscan.io/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Celer State Guardian Network", "url": "https://cbridge-docs.celer.network/introduction/state-guardian-network" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Crouton Validators", "url": "https://crouton.digital/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Entangle Validators", "url": "https://hub.entangleai.org/validators" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "exSat Validators", "url": "https://docs.exsat.network/guides-of-data-consensus/others/operation-references/validator-operations" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Hashport Validator Swam", "url": "https://www.hashport.network/validators/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "ICON Validators", "url": "https://docs.icon.community/operate-icon/network/validator-nodes" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "LayerZero DVN", "url": "https://docs.layerzero.network/v2/deployments/dvn-addresses" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Polkadot Validators", "url": "https://wiki.polkadot.com/learn/learn-validator/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Skate AVS Operators", "url": "https://docs.skatechain.org/main/infrastructure-components/eigencloud-avs/skate-avs" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTED", "name": "Wormhole Guardian Network", "url": "https://wormhole.com/docs/protocol/infrastructure/guardians/" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTMINIMIZED", "name": "IBC Validators", "url": "https://ibcprotocol.dev/how-ibc-works" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTMINIMIZED", "name": "Hyperlane Validators", "url": "https://docs.hyperlane.xyz/docs/protocol/agents/validators" },
+	{ "id": "ARM", "type": "validator", "model": "TRUSTMINIMIZED", "name": "Zetachain Validators", "url": "https://www.zetachain.com/docs/about/token-utility/validators" }
+
+]

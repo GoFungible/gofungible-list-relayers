@@ -1,0 +1,11 @@
+[
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Juneo", "url": "https://www.juniper.net/us/en/products/routers.html" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Socket Protocol", "url": "https://www.socket.tech/" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "LIFI", "url": "https://li.fi/" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Squid Router", "url": "https://www.squidrouter.com/" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Chainhop", "url": "https://chainhop.exchange/" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Multichain (Anyswap)", "url": "https://app.multichain.org/" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "Synapse", "url": "https://docs.synapseprotocol.com/docs/Routers/Synapse-Router" },
+	{ "id": "ARM", "type": "router", "model": "-", "name": "HyperNova", "url": "https://supra.com/news/HyperNova-Consensus/" }
+
+]

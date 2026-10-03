@@ -1,0 +1,15 @@
+[
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "AggLayer", "url": "https://www.agglayer.dev/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Aztec Network", "url": "https://aztec.network/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Boundless", "url": "https://boundless.network/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "HyperBridge", "url": "https://docs.hyperbridge.network/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Nomad Verification", "url": "https://docs.nomad.xyz/the-nomad-protocol/verification-mechanisms/background-on-verification" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Sygma Verifiers", "url": "https://docs.buildwithsygma.com/protocol/relayers" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Polygon zkEVM", "url": "https://polygon.technology/polygon-zkevm" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Polygon Zero", "url": "https://github.com/0xPolygonZero" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "Succinct", "url": "https://www.succinct.xyz/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "zk-IBC", "url": "https://ibcprotocol.dev/blog/zkibc-toki" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "zkBridge", "url": "https://zkbridge.com/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "zkLink", "url": "https://zk.link/" },
+	{ "id": "ARM", "type": "prover", "model": "TRUSTLESS", "name": "zkSync", "url": "https://www.zksync.io/" }
+]
