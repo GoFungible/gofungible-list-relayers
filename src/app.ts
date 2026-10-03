@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
 import htm from "htm";
+import "./style.css";
 
 const html = htm.bind(React.createElement);
 
-const DATA_BASE = "static/data/";
+const DATA_BASE = import.meta.env.BASE_URL + "data/";
 const CODE_FIELD = "code";
 const CODE_BASE =
   "https://github.com/GoFungible/gofungible-suite-interop/blob/main/contracts/";
